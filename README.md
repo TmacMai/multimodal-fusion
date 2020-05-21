@@ -1,7 +1,7 @@
 # multimodal-fusion
 This repository contains codes of our some recent works aiming at multimodal fusion, including Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing, Locally Confined Modality Fusion Network With a Global Perspective for Multimodal Human Affective Computing, etc.
 
-The data are originally released in https://github.com/A2Zadeh/CMU-MultimodalSDK and are finally provided in https://github.com/soujanyaporia/multimodal-sentiment-analysis. If you need to use these data, please cite their corresponding papers.
+
 
 Belows are the detailed introductions of our fusion methods:
 1. HFFN (Hierarchical Feature Fusion Network)
@@ -10,7 +10,7 @@ Some of the codes are borrowed from https://github.com/soujanyaporia/multimodal-
 
 Some modifications have been made to obtain better performance (80.45 on MOSI) such that some details are different from the paper:https://www.aclweb.org/anthology/P19-1046/
 
-For raw datasets, please download them from: https://github.com/soujanyaporia/multimodal-sentiment-analysis/tree/master/dataset (you need to create a 'dataset' folder and place the downloaded data in it.)
+The data are originally released in https://github.com/A2Zadeh/CMU-MultimodalSDK and are finally provided in https://github.com/soujanyaporia/multimodal-sentiment-analysis. If you need to use these data, please cite their corresponding papers. For raw datasets, please download them from: https://github.com/soujanyaporia/multimodal-sentiment-analysis/tree/master/dataset (you need to create a 'dataset' folder and place the downloaded data in it.)
 
 To run the code: python mosi_acl.py  
 
