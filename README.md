@@ -5,6 +5,14 @@ The data are originally released in https://github.com/A2Zadeh/CMU-MultimodalSDK
 
 Belows are the detailed introductions of our fusion methods:
 1. HFFN (Hierarchical Feature Fusion Network)
+Some of the codes are borrowed from https://github.com/soujanyaporia/multimodal-sentiment-analysis. We thank very much for their sharing.
+
+Some modifications have been made to obtain better performance (80.45 on MOSI) such that some details are different from the paper:
+
+For raw datasets, please download them from: https://github.com/soujanyaporia/multimodal-sentiment-analysis/tree/master/dataset (you need to create a 'dataset' folder and place the downloaded data in it.)
+
+To run the code: python mosi_acl.py      
+We test the code with python2, and the framework is Keras. You can also change the hyperparameters.
 
 If you need to use the codes, please cite our paper:
 
