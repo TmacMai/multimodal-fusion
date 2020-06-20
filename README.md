@@ -28,6 +28,8 @@ Mai, Sijie, Songlong Xing, and Haifeng Hu. "Locally Confined Modality Fusion Net
 
 3. ARGF
 
+The codes for ARGF is released in: https://github.com/TmacMai/ARGF_multimodal_fusion
+
 If you need to use the codes, please cite our paper:
 
 Mai, Sijie, Haifeng Hu, and Songlong Xing. "Modality To Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion." AAAI-20 (2020).
